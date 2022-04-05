@@ -1,5 +1,5 @@
 ## Hi there, I'm Bruno Lima,  👋
-- 🌱 I’m currently learning React and Css Animations;
+- 🌱 Actually I’m learning Laravel;
 - 💬 Ask me anything about web development, it would be a pleasure to share and learn with you;
 - 🎒 Main Tools: Visual Studio Code and GitHub;
 - ⚡ Fun fact: I love games mainly God of war 🐱‍👤;
